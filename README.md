@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning graphical models and approximation theory.
 - 💞️ I’m looking to collaborate on AI and ML related projects, embedded systems, and software programming.
 - 📫 How to reach me masoud.ataei@maine.edu.
+- https://masoud-ataei.github.io/
 
 <!---
 masata67/masata67 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
